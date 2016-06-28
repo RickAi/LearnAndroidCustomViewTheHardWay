@@ -11,3 +11,10 @@
 	* Canvas, Path
 	* Paint, LinearGradient, PorterDuffXfermode
 	* 动画优化：降低分辨率, 减少实时计算量, 减少内存分配次数
+
+* [自定义控件三部曲之绘图篇（十五）——QQ红点拖动删除效果实现（基本原理篇）](http://blog.csdn.net/harvic880925/article/details/51615221)
+	* saveLayer图层
+	* Path贝塞尔曲线
+	* onTouchEvent
+	* dispatchDraw
+	* Rect
