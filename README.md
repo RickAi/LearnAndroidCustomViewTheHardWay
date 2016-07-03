@@ -24,3 +24,9 @@
 	* Canvas
 	* Rect, RectF
 	* TypedArray
+
+* [MostafaGazar/CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView)
+	* Paint, PorterDuffXfermode
+	* Bitmap
+	* WeakReference
+	* Drawable
