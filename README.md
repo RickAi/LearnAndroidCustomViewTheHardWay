@@ -18,3 +18,9 @@
 	* onTouchEvent
 	* dispatchDraw
 	* Rect
+
+* [HeZaiJin/SlantedTextView](https://github.com/HeZaiJin/SlantedTextView)
+	* Paint, PorterDuff, Paint.FontMetrics
+	* Canvas
+	* Rect, RectF
+	* TypedArray
