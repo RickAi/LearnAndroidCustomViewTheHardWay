@@ -30,3 +30,7 @@
 	* Bitmap
 	* WeakReference
 	* Drawable
+
+* [ChadCSong/ShineButton](https://github.com/ChadCSong/ShineButton)
+
+* [tyrantgit/ExplosionField](https://github.com/tyrantgit/ExplosionField)

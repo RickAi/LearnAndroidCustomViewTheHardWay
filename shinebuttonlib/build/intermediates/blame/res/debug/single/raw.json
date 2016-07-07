@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ihandysoft/Desktop/ShineButton/shinebuttonlib/build/intermediates/res/merged/debug/raw/heart.png",
+        "source": "/Users/ihandysoft/Desktop/ShineButton/shinebuttonlib/src/main/res/raw/heart.png"
+    },
+    {
+        "merged": "/Users/ihandysoft/Desktop/ShineButton/shinebuttonlib/build/intermediates/res/merged/debug/raw/smile.png",
+        "source": "/Users/ihandysoft/Desktop/ShineButton/shinebuttonlib/src/main/res/raw/smile.png"
+    },
+    {
+        "merged": "/Users/ihandysoft/Desktop/ShineButton/shinebuttonlib/build/intermediates/res/merged/debug/raw/star.png",
+        "source": "/Users/ihandysoft/Desktop/ShineButton/shinebuttonlib/src/main/res/raw/star.png"
+    },
+    {
+        "merged": "/Users/ihandysoft/Desktop/ShineButton/shinebuttonlib/build/intermediates/res/merged/debug/raw/like.png",
+        "source": "/Users/ihandysoft/Desktop/ShineButton/shinebuttonlib/src/main/res/raw/like.png"
+    }
+]

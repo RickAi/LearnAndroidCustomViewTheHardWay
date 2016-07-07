@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PorterImageView"><attr format="integer|reference" name="siShape"/></declare-styleable>
+    <declare-styleable name="ShineButton"><attr format="color" name="btn_color"/><attr format="color" name="btn_fill_color"/><attr format="integer" name="shine_count"/><attr format="float" name="shine_turn_angle"/><attr format="float" name="small_shine_offset_angle"/><attr format="boolean" name="enable_flashing"/><attr format="boolean" name="allow_random_color"/><attr format="color" name="small_shine_color"/><attr format="color" name="big_shine_color"/><attr format="integer" name="shine_animation_duration"/><attr format="integer" name="click_animation_duration"/><attr format="float" name="shine_distance_multiple"/></declare-styleable>
+    <string name="app_name">ShineButtonLib</string>
+</resources>
